@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">My name is Yiğit and I'm a Front-end Developer.</p>
-
-###
-
 <h2 align="left"><About_Me/></h2>
 
 ###
 
-<p align="left">I am living in Ankara. <br>I graduated from Necmettin Erbakan University in Management Information Systems.<br><br><br><br>I am still learning backend technologies and game development.</p>
+<p align="left">👋 Hi there, I'm Yiğit! <br><br>- 🎓I graduated from Necmettin Erbakan University in Management Information Systems.<br><br>- 💻 Currently working on improve my abilities.<br><br>- 🌱 Always learning new technologies like C#, .Net Core, and Unity.<br><br>- 🛠️ I can in JavaScript, React, HTML, CSS, and building modern web applications.<br><br>- 🎯 My goal is to become a full stack developer and gain game development skills.<br><br><Please send an e-mail for contact.></p>
 
 ###
 
