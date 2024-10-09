@@ -1,8 +1,8 @@
-<h1 align="left"><Hello_Everyone/></h1>
+<h1 align="left">Hello_Everyone</h1>
 
 ###
 
-<h2 align="left"><About_Me/></h2>
+<h2 align="left">About_Me</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left"><My_Abilities/></h2>
+<h2 align="left">My_Abilities</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left"><Contact/></h2>
+<h2 align="left">Contact</h2>
 
 ###
 
